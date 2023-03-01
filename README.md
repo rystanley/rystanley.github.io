@@ -7,6 +7,6 @@ Ryan Stanley
 Bedford Institute of Oceanography
 Fisheries and Oceans Canada
 
-*Contact*: Ryan.Stanley _at_ dfo-mpo.gc.ca
+**Contact**: Ryan.Stanley _at_ dfo-mpo.gc.ca
 
-** Website under construction **
+**Website under construction**
